@@ -28,6 +28,10 @@ The objective of this project is to understand how an Arduino can:
 - Transform simple code into dynamic hardware behavior
 
 ---
+## 🔗 Live Simulation
+Test, tweak, and run the simulation live in your browser:
+👉 [Open LED Blinking Wave in Tinkercad Circuits](https://www.tinkercad.com/things/9k5OTU20CYx-demonstrating-pwm)
+
 
 ## ⚙️ Working Principle
 
@@ -47,6 +51,3 @@ DECREASING PWM →  DIMMER LIGHT
 ZERO DUTY CYCLE →  DARKNESS
 
 
-## 🔗 Live Simulation
-Test, tweak, and run the simulation live in your browser:
-👉 [Open LED Blinking Wave in Tinkercad Circuits](https://www.tinkercad.com/things/9k5OTU20CYx-demonstrating-pwm)
